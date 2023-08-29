@@ -1,2 +1,2 @@
 # PUM
-Prognozowani poziomu zanieczyszczenia przy użyciu dostarczonych atrybutów jakości powietrza.
+Prognozowanie poziomu zanieczyszczenia przy użyciu dostarczonych atrybutów jakości powietrza.
